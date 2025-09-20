@@ -102,7 +102,7 @@
             </div>
             <div class="p-2 bg-white rounded-2xl ring-1 ring-gray-200">
               <img src="541911623_17920814406150257_8174984626225662675_n.jpg" alt="Depois – fachada proposta (frontal)" class="rounded-xl w-full object-cover" />
-              <p class="text-center text-sm text-gray-600 mt-2">Depois – lateral proposta (frontal)</p>
+              <p class="text-center text-sm text-gray-600 mt-2">Depois – lateral proposta</p>
             </div>
           </div>
         </div>
@@ -124,14 +124,6 @@
     </video>
   </div>
 
-      <!-- Se preferir YouTube, substitua o bloco acima por este iframe (troque VIDEO_ID):
-      <div class="mt-4 rounded-2xl ring-1 ring-gray-200 overflow-hidden" style="aspect-ratio:16/9">
-        <iframe class="w-full h-full" src="https://www.youtube.com/embed/VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      </div>
-      -->
-
-      <p class="mt-3 text-xs text-gray-500">Dica: mantenha o arquivo com nome <code>video-campanha.mp4</code> para não precisar editar o código. Basta enviar/atualizar esse arquivo no repositório.</p>
-    </div>
   </section>
 
   <!-- Como contribuir -->
@@ -246,7 +238,7 @@
   <script>
     // ===== CONFIGURAÇÃO RÁPIDA =====
     const META = 150000.00;          // Meta total
-    const ARRECADADO = 0.00;        // Atualizar conforme arrecadação
+    const ARRECADADO = 1000.00;        // Atualizar conforme arrecadação
     const PIX_CHAVE = '61378766009740'; // CNPJ
     const SHARE_MSG = 'Participe da Campanha Casa da Mãe – Reforma da Comunidade Nossa Senhora de Fátima! Saiba mais e contribua: ' + window.location.href;
 
