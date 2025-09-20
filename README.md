@@ -116,17 +116,13 @@
       <h2 class="text-2xl md:text-3xl font-extrabold">Vídeo Explicativo Sobre a Campanha</h2>
       <p class="mt-2 text-gray-700">Assista ao vídeo onde nosso Padre Maciel, faz a apresentação do projeto Campanha Casa da Mãe e tira todas as dúvidas sobre como fazer a sua contribuição para a realização deste projeto.</p>
 
-      <!-- Player por arquivo local (GitHub Pages):
-           1) Envie um arquivo MP4 para o repositório com o nome exato: video-campanha.mp4
-           2) (Opcional) Envie uma imagem de capa chamada: capa-video.jpg
-      -->
-      <div class="mt-4 p-2 bg-black rounded-2xl ring-1 ring-gray-200">
-        <video id="videoCampanha" class="w-full rounded-xl" controls playsinline poster="capa-video.jpg">
-          <source src="video-campanha.mp4" type="video/mp4" />
-          <source src="FDownloader.Net_AQNifLe-T2l9wchxzJj1lieaxRmJK75I4g3rnzIxzn7HSJIJJjVF1ExQHT-sgSVVvMeTLCEbnOe1VYLHohlJSEBl_720p_(HD) (1).mp4" type="video/mp4" />
-          Seu navegador não suporta o elemento <code>video</code>.
-        </video>
-      </div>
+  <div class="mt-4 p-2 bg-black rounded-2xl ring-1 ring-gray-200">
+    <video id="videoCampanha" class="w-full rounded-xl" controls playsinline poster="capa-video.jpg">
+      <source src="video-campanha.mp4" type="video/mp4" />
+      <source src="FDownloader.Net_AQNifLe-T2l9wchxzJj1lieaxRmJK75I4g3rnzIxzn7HSJIJJjVF1ExQHT-sgSVVvMeTLCEbnOe1VYLHohlJSEBl_720p_(HD) (1).mp4" type="video/mp4" />
+      Seu navegador não suporta o elemento <code>video</code>.
+    </video>
+  </div>
 
       <!-- Se preferir YouTube, substitua o bloco acima por este iframe (troque VIDEO_ID):
       <div class="mt-4 rounded-2xl ring-1 ring-gray-200 overflow-hidden" style="aspect-ratio:16/9">
