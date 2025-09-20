@@ -123,7 +123,6 @@
       Seu navegador não suporta o elemento <code>video</code>.
     </video>
   </div>
-
   </section>
 
   <!-- Como contribuir -->
@@ -199,7 +198,6 @@
           </ul>
         </div>
       </div>
-      <p class="mt-4 text-xs text-gray-500">Como atualizar: no HTML, edite os itens dentro das listas com IDs <code>listaEntradas</code> e <code>listaSaidas</code>. Atualize também o total em <code>ARRECADADO</code> para refletir a soma acumulada.</p>
     </div>
   </section>
 
@@ -319,5 +317,3 @@
 
     document.getElementById('ano').textContent = new Date().getFullYear();
   </script>
-</body>
-</html>
