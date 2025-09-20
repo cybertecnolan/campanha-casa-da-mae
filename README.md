@@ -123,7 +123,6 @@
       Seu navegador não suporta o elemento <code>video</code>.
     </video>
   </div>
-  </section>
 
   <!-- Como contribuir -->
   <section id="contribua" class="py-16 bg-white">
